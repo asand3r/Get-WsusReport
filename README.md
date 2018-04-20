@@ -9,7 +9,7 @@ Current stable verson:
 ![alt text](https://sun1-2.userapi.com/c840530/v840530207/7845a/tbVloveyFkY.jpg)
 
 Using cmdlet for zabbix_sender utility:
-![alt text](https://sun9-4.userapi.com/c840530/v840530355/76158/hoeiXoMpFVM.jpg)
+![alt text](https://sun9-3.userapi.com/c840530/v840530207/78466/APPxSoyF2MI.jpg)
 
 ## Main features
 - [x] Show host group statistic from WSUS server.  

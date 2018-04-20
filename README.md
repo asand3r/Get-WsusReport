@@ -19,7 +19,7 @@ Using cmdlet for zabbix_sender utility:
 - [ ] Make more suitable output format.    
 
 ## Installation
-Please, read the relevant Wiki page.  
+Please, read the [relevant](https://github.com/asand3r/Get-WsusReport/wiki/Installation) Wiki page.  
 
 ## Usage of current stable
 You can use Get-Help cmdlet to view buit-in documentation, but here is some examples.

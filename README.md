@@ -5,6 +5,12 @@ If you have any remark, contact me with Telegram @asand3r.
 Current stable verson:  
 <b>0.2.3</b>  
 
+## Screenshot examples:  
+![alt text](https://sun9-2.userapi.com/c840530/v840530355/7614f/cqDdd2gvCM4.jpg)
+
+Using cmdlet for zabbix_sender utility:
+![alt text](https://sun9-4.userapi.com/c840530/v840530355/76158/hoeiXoMpFVM.jpg)
+
 ## Main features
 - [x] Show host group statistic from WSUS server.  
 - [x] Save getting statistic to file.

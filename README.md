@@ -6,7 +6,7 @@ Current stable verson:
 <b>0.2.3</b>  
 
 ## Screenshot examples:  
-![alt text](https://sun9-2.userapi.com/c840530/v840530355/7614f/cqDdd2gvCM4.jpg)
+![alt text](https://sun1-2.userapi.com/c840530/v840530207/7845a/tbVloveyFkY.jpg)
 
 Using cmdlet for zabbix_sender utility:
 ![alt text](https://sun9-4.userapi.com/c840530/v840530355/76158/hoeiXoMpFVM.jpg)

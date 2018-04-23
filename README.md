@@ -1,5 +1,5 @@
 # Get-WsusReport
-It's PowerShell cmdlet which can generates a report from corporate WSUS server about needed updates count of it's host groups.
+It's PowerShell cmdlet which can generates a report from WSUS server about needed updates count of it's host groups.
 It can show the report in format for using with zabbix_sender utility too.  
 If you have any remark, contact me with Telegram @asand3r.  
 Current stable verson:  
@@ -13,7 +13,7 @@ Using cmdlet for zabbix_sender utility:
 
 ## Main features
 - [x] Show host group statistic from WSUS server.  
-- [x] Save getting statistic to file.
+- [x] Show updates count in format ready for zabbix_sender utility.
 
 ## TODO List
 - [ ] Make more suitable output format.    
